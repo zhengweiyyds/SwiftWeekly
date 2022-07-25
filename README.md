@@ -4,6 +4,8 @@
 
 *一个关注 [Swift.org](https://swift.org) 动态，由社区驱动的每周时事通讯*
 
+asdasdasdasdasdasda
+
 <a href="https://mp.weixin.qq.com/s/fMwDE84PtABwztw3urS5vg">Swift 周报 第九期</a></br>
 <a href="https://mp.weixin.qq.com/s/XetoqCGTDS6G3myjW5nhng">Swift 周报 第八期</a></br>
 <a href="https://mp.weixin.qq.com/s/idN74HFRIH_pybqWp9bBbQ">Swift 周报 第七期</a></br>
